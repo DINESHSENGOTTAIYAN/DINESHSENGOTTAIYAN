@@ -2,9 +2,10 @@
 
 <div align="center">  
   <a href="https://git.io/typing-svg">  
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0066ff&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Dinesh+S;🎓+ECE+Prefinal+Year+Student;💻+Passionate+Java+%26+Python+Developer;🌱+Learning+VLSI+Design+and+Full+Stack+Development;🌱+Love+to+Solve+Many+Problems" alt="Typing SVG" />  
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0066ff&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Dinesh+S;🎓+ECE+Prefinal+Year+Student;💻+Passionate+Java+%26+Python+Developer;🌱+Learning+VLSI+Design+and+Full+Stack+Development;🌱+Love+to+Solve+Many+Problems" alt="Typing SVG" />  
   </a>  
 </div>
+
 
 
 # 💫 About Me:
